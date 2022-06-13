@@ -1,2 +1,12 @@
-# Articles-from-Zhihu
-Articles from Zhihu
+# 曾经发布在知乎上的文章
+
+归档曾经发在知乎上的文章
+
+## 目录
+
+1. Mac OS 9 编程初体验
+
+
+## 备注
+
+本 repo 下的所有内容均在 CC BY-NC-SA 4.0 许可协议下发布。
