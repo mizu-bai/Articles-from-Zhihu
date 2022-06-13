@@ -14,7 +14,7 @@ MPW Shell 类似于 UNIX Shell，但命令不同，如 `Files` 即为 `ls`，`Di
 
 
 |                 MPW Shell                 |             UNIX Shell             |
-| ----------------------------------------- | ---------------------------------- |
+| :---------------------------------------: | :--------------------------------: |
 | `Directory 'Macintosh HD:Desktop Folder'` | `cd Macintosh\ HD/Desktop\ Folder` |
 |                `Directory`                |               `pwd`                |
 |                `Files -l`                 |              `ls -l`               |
