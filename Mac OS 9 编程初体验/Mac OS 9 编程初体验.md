@@ -73,13 +73,13 @@ int main() {
 
 配置选项选项的界面如下。
 
-![07-Comfigure-Compilation-Options](https://github.com/mizu-bai/Articles-from-Zhihu/blob/main/Mac%20OS%209%20%E7%BC%96%E7%A8%8B%E5%88%9D%E4%BD%93%E9%AA%8C/Mac%20OS%209%20%E7%BC%96%E7%A8%8B%E5%88%9D%E4%BD%93%E9%AA%8C.assets/07-Comfigure-Compilation-Options.jpg)
+![07-Comfigure-Compilation-Options](https://github.com/mizu-bai/Articles-from-Zhihu/blob/main/Mac%20OS%209%20%E7%BC%96%E7%A8%8B%E5%88%9D%E4%BD%93%E9%AA%8C/Mac%20OS%209%20%E7%BC%96%E7%A8%8B%E5%88%9D%E4%BD%93%E9%AA%8C.assets/07-Configure-Compilation-Options.jpg)
 
 简单看一下，Program Type 里的 Application 应该是带 GUI 的程序，而 SIOW App 应该是命令行程序，这里选择 SIOW App。Target 里可以选择两种架构，m68k 和 PowerPC，Fat Binary 即同时包含 m68k 和 PowerPC 两种架构，历史上的 Fat Binary 曾经有 m68k + PowerPC，PowerPC + Intel ，而现在有 Intel + ARM64。
 
 在 Source Files 处选择要编译的源文件，而 Include Search Paths 处是指定搜索头文件的路径，此处没有添加别的头文件，可不设置。这里这要添加刚刚的 `main.c`。
 
-![08-Add-Source-File](https://github.com/mizu-bai/Articles-from-Zhihu/blob/main/Mac%20OS%209%20%E7%BC%96%E7%A8%8B%E5%88%9D%E4%BD%93%E9%AA%8C/Mac%20OS%209%20%E7%BC%96%E7%A8%8B%E5%88%9D%E4%BD%93%E9%AA%8C.assets/08-Add-Source-File.jpg)
+![08-Add-Source-File](https://github.com/mizu-bai/Articles-from-Zhihu/blob/main/Mac%20OS%209%20%E7%BC%96%E7%A8%8B%E5%88%9D%E4%BD%93%E9%AA%8C/Mac%20OS%209%20%E7%BC%96%E7%A8%8B%E5%88%9D%E4%BD%93%E9%AA%8C.assets/08-Add-Source-Files.jpg)
 
 配置完成后就生成了一个 Makefile ，如下图
 
@@ -106,4 +106,3 @@ int main() {
 
 [1]: https://en.wikipedia.org/wiki/Macintosh_Programmer%27s_Workshop
 [2]: https://web.archive.org/web/20161021140941/http://www.geek-central.gen.nz/MPW/intro.html
-
