@@ -4,7 +4,8 @@
 
 ## 目录
 
-1. [Mac OS 9 编程初体验](https://github.com/mizu-bai/Articles-from-Zhihu/blob/main/Mac%20OS%209%20%E7%BC%96%E7%A8%8B%E5%88%9D%E4%BD%93%E9%AA%8C/Mac%20OS%209%20%E7%BC%96%E7%A8%8B%E5%88%9D%E4%BD%93%E9%AA%8C.md)
+1. [Mac OS 9 编程初体验](https://github.com/mizu-bai/Articles-from-Zhihu/blob/main/Mac%20OS%209%20%E7%BC%96%E7%A8%8B%E5%88%9D%E4%BD%93%E9%AA%8C/Mac%20OS%209%20%E7%BC%96%E7%A8%8B%E5%88%9D%E4%BD%93%E9%AA%8C.md) (2021.05.06)
+2. [【教程】Intel Mac 在 Conda 环境中安装 tensorflow-macos 和 tensorflow-metal](https://zhuanlan.zhihu.com/p/386164537) (2021.07.02)
 
 ## 备注
 
